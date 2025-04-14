@@ -4,9 +4,9 @@ A compilation of all of my solved leetcode problems using TypeScript
 
 ## Contents
 
-- Leetcode 75
-- Neetcode 75
-- Neetcode 150
+- [Leetcode 75](https://leetcode.com/studyplan/leetcode-75/)
+- [Neetcode Blind 75](https://neetcode.io/practice?tab=blind75)
+- [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)
 
 ## Running the code
 
