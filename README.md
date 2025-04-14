@@ -1,0 +1,25 @@
+# Leetcode
+
+A compilation of all of my solved leetcode problems using TypeScript
+
+## Contents
+
+- Leetcode 75
+- Neetcode 75
+- Neetcode 150
+
+## Running the code
+
+To install dependencies:
+
+```bash
+bun install
+```
+
+To run:
+
+```bash
+bun run <problem set>/<name of the problem>.ts
+```
+
+This project was created using `bun init` in bun v1.2.4. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
