@@ -14,9 +14,9 @@ A compilation of all of my solved leetcode problems using TypeScript
 
 ![Problems by difficulty](./.stats/chart.png)
 
-- **Easy:** 3 problems
+- **Easy:** 4 problems
 - **Medium:** 0 problems
-- **Hard:** 1 problems
+- **Hard:** 0 problems
 
 
 ## Running the code
