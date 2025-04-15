@@ -8,6 +8,17 @@ A compilation of all of my solved leetcode problems using TypeScript
 - [Neetcode Blind 75](https://neetcode.io/practice?tab=blind75)
 - [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)
 
+## Statistics
+
+### Solved Problems by Difficulty
+
+![Problems by difficulty](./.stats/chart.png)
+
+- **Easy:** 4 problems
+- **Medium:** 0 problems
+- **Hard:** 0 problems
+
+
 ## Running the code
 
 To install dependencies:
