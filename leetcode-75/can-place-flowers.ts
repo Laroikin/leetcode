@@ -1,3 +1,4 @@
+// Difficulty: Easy
 // Complexity: O(n)
 // https://leetcode.com/problems/can-place-flowers/submissions/1606408934/?envType=study-plan-v2&envId=leetcode-75
 

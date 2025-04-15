@@ -1,3 +1,4 @@
+// Difficulty: Easy
 // Complexity: O(n^3)
 // Link: https://leetcode.com/problems/count-good-triplets/submissions/1606679654/?envType=daily-question&envId=2025-04-14
 
